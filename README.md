@@ -6,8 +6,8 @@
 
 | Stage | Period | 
 | :--- | :--- |
-| 사전 직무 교육 | 2025년 06월 30일 ~ 2025년 07월 04일 |
-| 프로젝트 기간 | 2025년 07월 07일 ~ 2025년 08월 31일 |
+| Pre-training Program | June 30, 2025 – July 4, 2025 |
+| Project Period | July 7, 2025 – August 31, 2025 |
 
 ---
 
