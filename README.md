@@ -9,6 +9,8 @@
 
 ---
 
+1. Tech Stack   
+
 | Category | Stack |
 | :--- | :--- |
 | Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> |
@@ -19,6 +21,8 @@
 
 ---   
 
+2. Team Members   
+
 | 역할 | 이름 | 담당 업무 | 
 | :--- | :--- | :--- |
 | 멘토 | 김기태 | 프로젝트 멘토링 |
@@ -27,3 +31,5 @@
 | 팀원 | 김이림 | 기획, 데이터 수집 및 분석 |
 | 팀원 | 박지우 | 기획, 데이터 수집 및 분석 | 
 | 팀원 | 정선영 | 기획, 데이터 수집 및 분석 | 
+
+---
