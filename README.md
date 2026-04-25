@@ -4,15 +4,6 @@
   <strong>65세 이상 인구 20% 시대, 디지털 격차를 해소하고 새로운 기회를 연결합니다.</strong>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
 <br>
 
 > 본 프로젝트는 **한국오라클 Data Activism! 공공데이터로 도시문제 해결하기** 프로그램의 일환으로 진행되었습니다.
