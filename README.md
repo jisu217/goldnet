@@ -11,7 +11,7 @@
 
 ---
 
-2. Tech Stack
+2. Tech Stack  
 
 | Category | Stack |
 | :--- | :--- |
